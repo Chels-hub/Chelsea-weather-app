@@ -1,0 +1,67 @@
+h1 {
+  color: black;
+  padding: 20px 0px 5px 19px;
+  font-family: "Roboto Slab", serif;
+}
+h2 {
+  color: black;
+  padding: 0 auto;
+  font-family: "Roboto Slab", serif;
+}
+form {
+  display: block;
+  margin: auto;
+}
+
+.windspeed,
+.humidity {
+  padding: 0 auto;
+  position: relative;
+  top: -110px;
+  left: 270px;
+}
+
+.timeToday {
+  font-family: "Roboto Slab", serif;
+  font-size: 50px;
+  color: black;
+  text-decoration: none;
+}
+.temperature-display {
+  color: black;
+  font-size: 50px;
+  left: 50px;
+  position: relative;
+  top: -15px;
+}
+.units {
+  font-size: 20px;
+  top: -20px;
+  position: relative;
+}
+.cityname {
+  font-family: "Roboto Slab", serif;
+  font-size: 45px;
+  color: black;
+  text-decoration: none;
+  top: -15px;
+}
+.searchbar {
+  margin: 0 auto;
+  display: block;
+}
+.container {
+  padding: 100px;
+  max-width: 70%;
+  margin: auto;
+}
+
+.card-text {
+  font-family: "Roboto Slab", serif;
+}
+.display {
+  margin: 10px;
+}
+.card {
+  padding: 30px 40px;
+}
